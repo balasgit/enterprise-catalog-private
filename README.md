@@ -103,6 +103,6 @@ ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
 <br></br>
 
 ##### (M) Catalog Created
-<img src="images/PC-CreateInstances.jpg" width="600">
+<img src="images/PC-CatalogCreated.jpg" width="600">
 
 <br></br>
