@@ -12,7 +12,6 @@
 
 ` ibmcloud update `
 
-<code> ibmcloud show </code>
 
 ### 2. Install the plugin
 
