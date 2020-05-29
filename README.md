@@ -28,45 +28,65 @@ ibmcloud catalog create --name <Catalog Name> --description <Description> hide-i
 
 ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
 
-ibmcloud catalog offerings --catalog austin-catalog-accessgroup
 
-### 6. Verify the private catalog that is created via IBM Public Cloud console
 
-<img src="images/PrivateCatalog-CloudHide.jpg" width="600">
+### 6. Follow the walkthru of screen and Update catalogies, validate, publish and all. 
 
+<img src="images/PC-configprd.jpg" width="600">
 
 
 <br></br>
 
-<img src="images/PrivateCatalog-CloudHide.jpg" width="600">
+<img src="images/PC-AddCategory" width="600">
 
 <br></br>
 
 
-<img src="images/PrivateCatalog-AccessGroupTiles.jpg" width="600">
+<img src="images/PC-AddDeploymentValues" width="600">
 
 <br></br>
 
 
-### 7. Follow the walkthru of screen and Update catalogies, validate, publish and all.
 
-<img src="images/ValidateProduct.jpg" width="600">
-
-<br></br>
-
-<img src="images/CategorySelection.jpg" width="600">
+<img src="images/PC-ConfigDeploymentValues.jpg" width="600">
 
 <br></br>
 
-<img src="images/AddLicense.jpg" width="600">
+<img src="images/PC-AddLicense.jpg" width="600">
 
 <br></br>
 
-<img src="images/ValidationSummary.jpg" width="600">
+<img src="images/PC-Readme.jpg" width="600">
 
 <br></br>
 
-<img src="images/SummaryStatus.jpg" width="600">
+<img src="images/PC-ValidateProduct.jpg" width="600">
 
 <br></br>
 
+<img src="images/PC-ProductValidated.jpg" width="600">
+
+<br></br>
+
+<br></br>
+
+<img src="images/PC-Publish.jpg" width="600">
+
+<br></br>
+
+<br></br>
+
+<img src="images/PC-Published.jpg" width="600">
+
+<br></br>
+
+<br></br>
+
+<img src="images/PC-Tile.jpg" width="600">
+
+<br></br>
+<br></br>
+
+<img src="images/PC-CreateInstances.jpg" width="600">
+
+<br></br>
