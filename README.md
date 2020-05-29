@@ -29,9 +29,9 @@ ibmcloud catalog create --name <Catalog Name> --description <Description> hide-i
 ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
 
 
+### 6. Follow the walkthru of screen - complete activities
 
-### 6. Follow the walkthru of screen and Update catalogies, validate, publish and all. 
-
+<br></br>
 ##### Configure Product
 <img src="images/PC-configprd.jpg" width="600">
 
