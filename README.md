@@ -32,71 +32,72 @@ ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
 ### 6. Follow the walkthru of screen - complete activities
 
 <br></br>
-##### Configure Product
+
+##### (A)  Configure Product
 <img src="images/PC-configprd.jpg" width="600">
 
 
 <br></br>
 
-##### Configure Category
+##### (B) Configure Category
 <img src="images/PC-AddCategory.jpg" width="600">
 
 <br></br>
 
-##### Add Deployment Values
+##### (C) Add Deployment Values
 <img src="images/PC-AddDeploymentValues.jpg" width="600">
 
 <br></br>
 
-##### Configure Deployment Values
+##### (D) Configure Deployment Values
 
 <img src="images/PC-ConfigDeploymentValues.jpg" width="600">
 
 <br></br>
 
-##### Add License 
+##### (E) Add License 
 <img src="images/PC-AddLicense.jpg" width="600">
 
 <br></br>
 
-##### Add Readme
+##### (F) Add Readme
 <img src="images/PC-Readme.jpg" width="600">
 
 <br></br>
 
-##### Validate Product
+##### (G) Validate Product
 <img src="images/PC-ValidateProduct.jpg" width="600">
 
 <br></br>
 
-##### Product Validation - Summary
+##### (H)  Product Validation - Summary
 <img src="images/PC-ProductValidated.jpg" width="600">
 
 <br></br>
 
 <br></br>
 
-##### Validated and Product Needs to be publish
+##### (I) Validated and Product Needs to be publish
 <img src="images/PC-Publish.jpg" width="600">
 
 <br></br>
 
 <br></br>
 
-##### Product Published
+##### (J) Product Published
 <img src="images/PC-Published.jpg" width="600">
 
 <br></br>
 
 <br></br>
 
-##### Catalog Tile
+##### (K) Catalog Tile
 <img src="images/PC-Tile.jpg" width="600">
 
 <br></br>
 <br></br>
 
-##### Create Instance
+##### (L) Create Instance
 <img src="images/PC-CreateInstances.jpg" width="600">
 
 <br></br>
