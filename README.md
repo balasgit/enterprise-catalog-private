@@ -16,19 +16,19 @@
 
 ### 2. Install the plugin
 
-ibmcloud plugin install catalogs-management
+`ibmcloud plugin install catalogs-management`
 
 ### 3. Set your target resource group.
 
-ibmcloud target -g <Resource Group Name> 
+`ibmcloud target -g <Resource Group Name>` 
 
 ### 4. Create a Private catalog
 
-ibmcloud catalog create --name <Catalog Name> --description <Description> hide-ibm-public-catalog
+`ibmcloud catalog create --name <Catalog Name> --description <Description> hide-ibm-public-catalog`
 
 ### 5. Create a Tile. You need to pass .tgz file as an argument.
 
-ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
+`ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>`
 
 
 ### 6. Follow the walkthru of screen - complete activities
