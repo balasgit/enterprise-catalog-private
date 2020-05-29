@@ -37,12 +37,12 @@ ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
 
 <br></br>
 
-<img src="images/PC-AddCategory" width="600">
+<img src="images/PC-AddCategory.jpg" width="600">
 
 <br></br>
 
 
-<img src="images/PC-AddDeploymentValues" width="600">
+<img src="images/PC-AddDeploymentValues.jpg" width="600">
 
 <br></br>
 
