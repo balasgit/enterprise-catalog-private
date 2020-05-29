@@ -10,7 +10,7 @@
 
 ### 1. The catalog managment is available in latest cli. You need to update your ibmcloud cli using.
 
-`code' ibmcloud update 
+`code` ibmcloud update 
 
 ### 2. Install the plugin
 
