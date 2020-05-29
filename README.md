@@ -32,61 +32,71 @@ ibmcloud catalog offering create --catalog <Catalog Name> --zipurl <Tile URL>
 
 ### 6. Follow the walkthru of screen and Update catalogies, validate, publish and all. 
 
+##### Configure Product
 <img src="images/PC-configprd.jpg" width="600">
 
 
 <br></br>
 
+##### Configure Category
 <img src="images/PC-AddCategory.jpg" width="600">
 
 <br></br>
 
-
+##### Add Deployment Values
 <img src="images/PC-AddDeploymentValues.jpg" width="600">
 
 <br></br>
 
-
+##### Configure Deployment Values
 
 <img src="images/PC-ConfigDeploymentValues.jpg" width="600">
 
 <br></br>
 
+##### Add License 
 <img src="images/PC-AddLicense.jpg" width="600">
 
 <br></br>
 
+##### Add Readme
 <img src="images/PC-Readme.jpg" width="600">
 
 <br></br>
 
+##### Validate Product
 <img src="images/PC-ValidateProduct.jpg" width="600">
 
 <br></br>
 
+##### Product Validation - Summary
 <img src="images/PC-ProductValidated.jpg" width="600">
 
 <br></br>
 
 <br></br>
 
+##### Validated and Product Needs to be publish
 <img src="images/PC-Publish.jpg" width="600">
 
 <br></br>
 
 <br></br>
 
+##### Product Published
 <img src="images/PC-Published.jpg" width="600">
 
 <br></br>
 
 <br></br>
 
+##### Catalog Tile
 <img src="images/PC-Tile.jpg" width="600">
 
 <br></br>
 <br></br>
 
+##### Create Instance
 <img src="images/PC-CreateInstances.jpg" width="600">
 
 <br></br>
